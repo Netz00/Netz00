@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a web developer
+- Here are some of technologies, languages, CASE tools, ..., I used through all these years:
+
+![techStack](./assets/techStack.png)
+
 <!--
 **Netz00/Netz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
