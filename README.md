@@ -3,6 +3,10 @@
 - 🔭 I’m currently working as a web developer
 - Here are some of technologies, languages, CASE tools, ..., I used through all these years:
 
+• [Medium](https://medium.com/@Netz00/lists)
+• [LinkedIn](https://www.linkedin.com/in/netz00/)
+•
+
 ![techStack](./assets/techStack.png)
 
 <!--
