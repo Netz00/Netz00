@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm an Computer Science student at [FESB](https://www.fesb.unist.hr/).
-- 🌱 I'm also a passionate web developer interested in system architectures, security, and big data.
+- 🔭 I'm an Computer Science student at [FESB](https://www.fesb.unist.hr/) 🇭🇷.
+- 🌱 I'm also a passionate web developer interested in software architecture, security, and big data.
 
 - 🤔 Here are some of technologies, languages, CASE tools, ..., I used through all these years:
 
