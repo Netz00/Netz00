@@ -3,7 +3,8 @@
 - 🔭 I'm an Computer Science student at [FESB](https://www.fesb.unist.hr/) 🇭🇷.
 - 🌱 I'm also a passionate web developer interested in software architecture, security, and big data.
 
-- 🤔 Here are some of technologies, languages, CASE tools, ..., I used through all these years:
+- ⚡ Here are some of technologies, languages, CASE tools, ..., I used through all these years:
+  - (🤔 It may seem a lot of icons, but it's just (light) fullstack at 2020s.)
 
 ![techStack](./assets/techStack.png)
 
@@ -15,9 +16,6 @@
 - ⚡ Some of my publications
   - [Medium articles](https://medium.com/@Netz00/lists)
   - [JHipster Development Platform](https://www.linkedin.com/feed/update/urn:li:activity:7009201829204889601?utm_source=share&utm_medium=member_desktop)
-
-- ⚡ One of my latest creations: [Growi](https://growi.vercel.app/) (*Repo is private*)
-
 
 <!--
 **Netz00/Netz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
