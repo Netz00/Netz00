@@ -14,7 +14,7 @@
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/netz00/)
 
 - ⚡ Some of my publications
-  - [Medium articles](https://medium.com/@Netz00/lists)
+  - [Medium articles](https://medium.com/@Netz00)
   - [JHipster Development Platform](https://www.linkedin.com/feed/update/urn:li:activity:7009201829204889601?utm_source=share&utm_medium=member_desktop)
 
 <!--
