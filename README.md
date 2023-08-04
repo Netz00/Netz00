@@ -4,7 +4,7 @@
 - 🌱 I'm also a passionate web developer interested in software architecture, security, and big data.
 
 - ⚡ Here are some of technologies, languages, CASE tools, ..., I used through all these years:
-  - (🤔 It may seem a lot of icons, but it's just (light) fullstack at 2020s.)
+  - (🤔 I don’t claim to be an expert at all of them, but I used them in some period of my career and this is the stack I am familiar with.)
 
 ![techStack](./assets/techStack.png)
 
