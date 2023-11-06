@@ -17,6 +17,11 @@
   - [Medium articles](https://medium.com/@Netz00)
   - [JHipster Development Platform](https://www.linkedin.com/feed/update/urn:li:activity:7009201829204889601?utm_source=share&utm_medium=member_desktop)
 
+
+---
+
+![interests](https://github.com/Netz00/Netz00/assets/49691921/c28f7d4c-1097-4eee-b694-bbd80876511c)
+
 <!--
 **Netz00/Netz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
