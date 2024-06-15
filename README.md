@@ -3,12 +3,6 @@
 - 🔭 I'm an Computer Science student at [FESB](https://www.fesb.unist.hr/) 🇭🇷.
 - 🌱 I'm also a passionate web developer interested in software architecture, security, and big data.
 
-- ⚡ Here are some of technologies, languages, CASE tools, ..., I used through all these years:
-  - (🤔 I don’t claim to be an expert at all of them, but I used them in some period of my career and this is the stack I am familiar with.)
-
-![techStack](./assets/techStack.png)
-
-
 ---
 
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/netz00/)
