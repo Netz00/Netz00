@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm an Computer Science student at [FESB](https://www.fesb.unist.hr/) 🇭🇷.
+- 🔭 I'm a Computer Science graduate of [FESB](https://www.fesb.unist.hr/) 🇭🇷.
 - 🌱 I'm also a passionate web developer interested in software architecture, security, and big data.
 
 ---
