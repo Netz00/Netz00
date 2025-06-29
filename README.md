@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm a Computer Science graduate of [FESB](https://www.fesb.unist.hr/) 🇭🇷.
-- 🌱 I'm also a passionate web developer interested in software architecture, security, and big data.
+- 🌱 I'm also a passionate web developer interested in software architecture, security, and data.
+- Occasional brain dumps and essays at dev.to/rooted
 
 ---
 
